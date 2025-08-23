@@ -17,3 +17,18 @@ O usuário poderá fazer conversões da moeda Brasileira para: Dólar, Euro, Lib
 :art: | CSS3 – Estilização e layout responsivo<br>
 <br>
 :bulb: | JavaScript – Lógica de conversão e interatividade</p>
+
+<h1>Segue abaixo algumas imagens de como ficou esse projeto incrível:</h1><br>
+<br>
+<img src="https://github.com/Roberta2205/Conversor-de-moedas-Dev-Club/blob/master/assets/Tela%20inicial%20projeto.png?raw=true"><br>
+<br>
+<img src="https://github.com/Roberta2205/Conversor-de-moedas-Dev-Club/blob/master/assets/Fun%C3%A7%C3%B5es%20I.png?raw=true"><br>
+<br>
+<img src="https://github.com/Roberta2205/Conversor-de-moedas-Dev-Club/blob/master/assets/Fun%C3%A7%C3%B5es%20II.png?raw=true"><br>
+<br>
+<img src="https://github.com/Roberta2205/Conversor-de-moedas-Dev-Club/blob/master/assets/Fun%C3%A7%C3%B5es%20III.png?raw=true"><br>
+<br>
+<img src="https://github.com/Roberta2205/Conversor-de-moedas-Dev-Club/blob/master/assets/Fun%C3%A7%C3%B5es%20IV.png?raw=true"><br>
+<br>
+<img src="https://github.com/Roberta2205/Conversor-de-moedas-Dev-Club/blob/master/assets/Fun%C3%A7%C3%B5es%20V.png?raw=true"><br>
+<br>
