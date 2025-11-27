@@ -1,22 +1,36 @@
 <h1>Conversor de Moedas 💱</h1><br>
-<br>
-<br>
+
 <p>Este projeto consiste em um conversor de moedas desenvolvido com foco em prática e aprimoramento das habilidades 
 em HTML, CSS e JavaScript, realizado no primeiro módulo de JavaScript no meu curso Dev Club.
-</p><br>
-<p>O sistema permite que o usuário insira um valor em determinada moeda e realize a conversão para outra de 
+O sistema permite que o usuário insira um valor em determinada moeda e realize a conversão para outra de 
 forma simples e objetiva. Além disso, a interface foi estruturada para oferecer uma experiência clara e intuitiva.
 O usuário poderá fazer conversões da moeda Brasileira para: Dólar, Euro, Libras e Bitcoin.
-</p><br>
-<br>
+</p>
 
-<h1>🔧 Tecnologias utilizadas</h1><br>
-<br>
-<p>:iphone: | HTML5 – Estrutura do projeto<br>
-<br>
-:art: | CSS3 – Estilização e layout responsivo<br>
-<br>
-:bulb: | JavaScript – Lógica de conversão e interatividade</p>
+<h1>Acesse ao site</h1>
+<p>https://conversordemoedas-s.netlify.app/</p>
+
+<h1>Funcionalidades</h1>
+<ul>
+  <li>Permite converter moedas em real para:</li>
+  <li>Dólar</li>
+  <li>Euro</li>
+  <li>Libra</li>
+  <li>Bitcoin</li>
+  <li>Troca a imagem conforme moeda escolhida</li>  
+</ul>
+
+<h1>Modo de uso</h1>
+<ul>
+  <li>Coloque o valor que você gostaria de converter no último card</li>
+  <li>Selecione a moeda que você gostaria no segundo card</li>
+  <li>Clique no botão para gerar o valor convertido</li>
+</ul>
+
+<h1>Feedback</h1>
+<p>Estou no início da minha trajetória e ainda tenho muito o que aprender sobre desenvolvimento web. 
+Caso você encontre algo que possa melhorar, ficarei feliz em receber um comentário e corrigir para ficar melhor ainda.</p>
+
 
 <h1>Segue abaixo algumas imagens de como ficou esse projeto incrível:</h1><br>
 <br>
